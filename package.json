@@ -1,0 +1,19 @@
+{
+  "name": "@servicebus/package",
+  "version": "0.0.0-development",
+  "description": "middleware to package messages into uniform format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servicebus/package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servicebus/package/issues"
+  },
+  "homepage": "https://github.com/servicebus/package#readme"
+}
